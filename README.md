@@ -1,1 +1,3 @@
-# TP_AySO
+# TP_AySOAlumno: Agustin Juarez
+Div: 116
+Turno: Mañana
