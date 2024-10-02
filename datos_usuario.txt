@@ -1,1 +1,2 @@
 “Usuario=Agustin”
+model name	: AMD Ryzen 5 4600G with Radeon Graphics
